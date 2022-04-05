@@ -1,0 +1,53 @@
+ * {
+    text-align: center;
+    color:#ebb112
+}
+/* comentar en CSS */
+h1 {
+    color: #410777;
+    font-size: 31px;
+}
+p {
+    color: #077707;
+    font-size: 21px;
+}
+#secundario {
+    color: #072577;
+    font-size: 13px;
+}
+.subtexto1 {
+    color: #775907;
+    font-size: 8px;
+}
+.subtexto2 {
+    color: #770707;
+    font-size: 13px;
+}
+.size24 {
+    font-size: 24px;
+        font-family: Arial
+}
+.blackcolor {
+    color: black:#072577;
+}
+p.center {
+    text-align: center;
+    color: red:#072577
+}
+p.large {
+    font-size: 40px;
+}
+h1.center {
+    text-align: right;
+}
+h2, h3, h4 {
+    font-size: 33px;
+    color: #00c3ff
+}
+.box {
+    background-color: rgb(37, 37, 100);
+}
+.box h2 {
+    text-align: left;
+    font-size: 18px;
+}
